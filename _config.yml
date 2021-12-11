@@ -1,3 +1,5 @@
 theme: jekyll-theme-architect
 title: WCCI2022 IJCNN-SS-8 Online Intelligence and Trust Computation in Large-scale Dynamic Networks
 description: It is a WCCI2022 IJCNN2022 special session-8 page on topic of Trust Computation in Large-scale Dynamic Networks.
+layout: page
+permalink: /about/trustnet/
